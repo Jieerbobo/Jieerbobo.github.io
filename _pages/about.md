@@ -30,9 +30,9 @@ During my undergraduate stage, I was a visiting student in Biometric Technologie
 # 🧐 Research & Collaborations -->
 My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency, and inclusiveness. I am broadly interested in **Trustworthy AI**, with specific focuses on:
 
-* **Trustworthy LLMs & Web Security:** Exploring emerging privacy risks (S&P'26, CCS'24); preventing privacy risks or unauthorized exploitation in foundation models (NDSS'26, ACL'25, CCS'24).
+* **Trustworthy LLMs & Web Security:** Exploring emerging privacy risks (S&P'26, CCS'24); preventing privacy risks or unauthorized exploitation in foundation models (NDSS'26, ACL'25).
 * **Differential Privacy (Theory & Optimization):** Designing hyperparameter-free and data-augmented DP algorithms for better utility (ICLR'25, ACM MM'25).
-* **Privacy-Preserving Federated Learning:** Building efficient and inclusive FL systems over heterogeneous devices (SIGKDD '23, SIGKDD '22, AAAI '21).
+* **Privacy-Preserving Federated Learning:** Building private, efficient and inclusive FL systems across devices (SIGKDD '23, SIGKDD '22, AAAI '21).
 
 <div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #007bff; margin-top: 20px; margin-bottom: 20px;">
   <strong>🤝 Let's Collaborate!</strong><br>

@@ -27,11 +27,20 @@ During my undergraduate stage, I was a visiting student in Biometric Technologie
 
 <!-- <span class='anchor' id='research'></span>
 
-# 🧐 Research -->
-My works focus on advancing privacy enhancement techniques (PETs) to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency and inclusiveness.
-I am broadly interested in trustworthy AI.
+# 🧐 Research & Collaborations -->
+My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency, and inclusiveness. I am broadly interested in **Trustworthy AI**, with specific focuses on:
+
+* **Trustworthy LLMs & Web Security:** Exploring emerging privacy risks (S&P'26, CCS'24); preventing privacy risks or unauthorized exploitation in foundation models (NDSS'26, ACL'25, CCS'24).
+* **Differential Privacy (Theory & Optimization):** Designing hyperparameter-free and data-augmented DP algorithms for better utility (ICLR'25, ACM MM'25).
+* **Privacy-Preserving Federated Learning:** Building efficient and inclusive FL systems over heterogeneous devices (SIGKDD '23, SIGKDD '22, AAAI '21).
+
+<div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #007bff; margin-top: 20px; margin-bottom: 20px;">
+  <strong>🤝 Let's Collaborate!</strong><br>
+  I am always open to collaborations. Whether you are leading a project and need my expertise or computing resources, looking for research mentorship, or just want a quick chat — feel free to reach out by <strong><a href="https://forms.gle/k4zqoAE6EHFhBbDw7" target="_blank">filling this quick form</a></strong> to help us align efficiently!
+</div>
 
 # 🔥 News
+- *2026.3*: One paper accepted to S&P '26! See you in San Francisco!
 - *2025.11*: One paper accepted to NDSS '26! See you in San Diego!
 - *2025.10*: Invited to serve as a Program Committee Member for CCS 2026.
 - *2025.7*: One paper accepted to ACM MM '25 and received the Outstanding Paper Award! 🏆
@@ -71,7 +80,7 @@ See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=e
 
 <img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation]() \
 **Ruixuan Liu**, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong \
-*To Appear in Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 152/950=16%)*
+*Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 152/950=16%)*
 
 <img src="https://img.shields.io/badge/MM-2025-blue"> [Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data](https://dl.acm.org/doi/pdf/10.1145/3746027.3755037) \
 Haichao Sha, Yuncheng Wu, **Ruixuan Liu**, Yang Cao, Hong Chen \
@@ -169,7 +178,7 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
   - IEEE Transactions on Information Forensics & Security (TIFS) 2024
   - IEEE Transactions on Dependable and Secure Computing (TDSC) 2023-2025
 - Conference Program Committee Member
-  - ACM Conference on Computer and Communications Security (CCS) 2025
+  - ACM Conference on Computer and Communications Security (CCS) 2026
   - IEEE Conference on Secure and Trustworthy Machine Learning (SatML) 2025-2026
   - AAAI Conference on Artificial Intelligence (AAAI) 2023-2026
   - ACM International Conference on Information and Knowledge Management (CIKM) 2024

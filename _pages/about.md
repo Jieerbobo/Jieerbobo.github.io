@@ -42,7 +42,7 @@ My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications (<a href='[https://scholar.google.com/citations?user=sXWB1UQAAAAJ](https://scholar.google.com/citations?user=QXWjw78AAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+# 📝 Publications (<a href='[https://scholar.google.com/citations?user=QXWjw78AAAAJ](https://scholar.google.com/citations?user=QXWjw78AAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 <!-- (*: Mentored student; †: Equal contribution.) -->
 <!-- See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ) -->
 <!-- <a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'>

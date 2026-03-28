@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jie Wang<br>王杰"
-  avatar           : # "images/avatar.png"
+  avatar           : "images/favicon-32x32.png"
   bio              :
   location         :
   employer         :

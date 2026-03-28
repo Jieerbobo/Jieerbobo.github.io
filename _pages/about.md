@@ -34,37 +34,24 @@ My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create 
 * **Differential Privacy (Theory & Optimization):** Designing hyperparameter-free and data-augmented DP algorithms for better utility (ICLR'25, ACM MM'25).
 * **Privacy-Preserving Federated Learning:** Building private, efficient and inclusive FL systems across devices (SIGKDD '23, SIGKDD '22, AAAI '21).
 
-<div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #007bff; margin-top: 20px; margin-bottom: 20px;">
-  <strong>🤝 Let's Collaborate!</strong><br>
-  I am always open to collaborations. Whether you are leading a project and need my expertise or computing resources, looking for research mentorship, or just want a quick chat — feel free to reach out by <strong><a href="https://forms.gle/k4zqoAE6EHFhBbDw7" target="_blank">filling this quick form</a></strong> to help us align efficiently!
-</div>
-
 # 🔥 News
 - *2026.3*: One paper accepted to S&P '26! See you in San Francisco!
-- *2025.11*: One paper accepted to NDSS '26! See you in San Diego!
-- *2025.10*: Invited to serve as a Program Committee Member for CCS 2026.
-- *2025.7*: One paper accepted to ACM MM '25 and received the Outstanding Paper Award! 🏆
-- *2025.4*: Attended ICLR '25 in Singapore.
-- *2025.4*: One paper accepted to ACL '25 (Findings).
-- *2025.1*: One paper accepted to ICLR '25 as a Spotlight presentation! ✨
-- *2024.10*: Gave a talk at the UVa AI Seminar.
-- *2024.10*: Attended CCS '24 in Salt Lake City.
 - *2024.8*: Personal website online!
 
 <!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications (<a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+# 📝 Publications (<a href='[https://scholar.google.com/citations?user=sXWB1UQAAAAJ](https://scholar.google.com/citations?user=QXWjw78AAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 <!-- (*: Mentored student; †: Equal contribution.) -->
 <!-- See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ) -->
 <!-- <a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'>
   <img src="https://img.shields.io/badge/citations-123-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat">
 </a> -->
 † represents co-first author, * represents corresponding author.
-See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=en)
+See full list [here](https://scholar.google.com/citations?user=QXWjw78AAAAJ&hl=en)
 
-## <i class="fa fa-paper-plane"></i> Conference Papers
+<!-- ## <i class="fa fa-paper-plane"></i> Conference Papers --!>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/favicon-16x16.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -98,43 +85,6 @@ Toan Tran, **Ruixuan Li**\*, Li Xiong \
 **Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong \
 *Proceedings of the 31th ACM Conference on Computer and Communications Security (CCS)*
 
-<img src="https://img.shields.io/badge/TPS_ISA-2023-blue"> [Supporting Pandemic Preparedness with Privacy Enhancing Technology]() \
-**Ruixuan Liu**, Sepanta Zeighami, Haowen Lin, Cyrus Shahabi, Yang Cao, Shun Takagi, Yoko Konishi, Masatoshi Yoshikawa, Li Xiong \
-*Proceedings of the 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)*
-
-<img src="https://img.shields.io/badge/SIGKDD-2023-blue"> [PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599889) \
-**Ruixuan Liu**, Yang Cao, Yanlin Wang, Lingjuan Lyu, Yun Chen, Hong Chen \
-*Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*
-
-<img src="https://img.shields.io/badge/SIGKDD-2022-blue"> [No one left behind: Inclusive federated learning over heterogeneous devices](https://dl.acm.org/doi/abs/10.1145/3534678.3539086) \
-**Ruixuan Liu**, Fangzhao Wu, Chuhan Wu, Yanlin Wang, Lingjuan Lyu, Hong Chen, Xing Xie \
-*Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*
-
-<img src="https://img.shields.io/badge/AAAI-2021-blue"> [Flame: Differentially private federated learning in the shuffle model](https://ojs.aaai.org/index.php/AAAI/article/view/17053) \
-**Ruixuan Liu**, Yang Cao, Hong Chen, Ruoyang Guo, Masatoshi Yoshikawa \
-*Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)*
-
-<img src="https://img.shields.io/badge/EMNLP-2021-blue"> [Efficient-FedRec: Efficient federated learning framework for privacy-preserving news recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) \
-Jingwei Yi, Fangzhao Wu, Chuhan Wu, **Ruixuan Liu**, Guangzhong Sun, Xing Xie \
-*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)*
-
-<!-- <img src="https://img.shields.io/badge/-2021-blue"> [Multi-modal motion-capture-based biometric systems for emergency response and patient rehabilitation](https://www.igi-global.com/chapter/multi-modal-motion-capture-based-biometric-systems-for-emergency-response-and-patient-rehabilitation/261369)
-Marina L Gavrilova, Ferdous Ahmed, ASM Hossain Bari, **Ruixuan Liu**, Tiantian Liu, Yann Maret, Brandon Kawah Sieu, Tanuja Sudhakar \
-*Research Anthology on Rehabilitation Practices and Therapy* -->
-
-<img src="https://img.shields.io/badge/DASFAA-2020-blue"> [Fedsel: Federated sgd under local differential privacy with top-k dimension selection](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_33) \
-**Ruixuan Liu**, Yang Cao, Masatoshi Yoshikawa, Hong Chen \
-*Proceedings of 25th International Conference of Database Systems for Advanced Applications (DASFAA)*
-
-<img src="https://img.shields.io/badge/IWQoS-2019-blue"> [Mixgeo: Efficient secure range queries on encrypted dense spatial data in the cloud](https://dl.acm.org/doi/abs/10.1145/3326285.3329064) \
-Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
-*Proceedings of the 27th IEEE/ACM International Symposium on Quality of Service (IWQoS)*
-
-<!-- <img src=""> [Local differential privacy with k-anonymous for frequency estimation]()
-Dan Zhao, Hong Chen, Suyun Zhao, Xiaoying Zhang, Cuiping Li, **Ruixuan Liu** \
-*Proceedings of the IEEE International Conference on Big Data (Big Data)* -->
-
-## <i class="fa fa-paper-plane"></i> Journal Papers
 <img src="https://img.shields.io/badge/TKDE-2021-blue"> [LuxGeo: Efficient and Security-Enhanced Geometric Range Queries](https://ieeexplore.ieee.org/abstract/document/9477110) \
 Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
 *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
@@ -159,16 +109,6 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 - Commendable Reviewers, SIGKDD, 2025
 - Travel Award, ACM CCS Diversity, Equity, and Inclusion (DEI) Workshop, 2024
 - Outstanding Doctoral Graduate, Renmin University of China, 2023
-- 2nd Prize of CIKM 2022 AnalytiCup Competition (with 3,000 USD), 2022
-- 1st-Class Academic Scholarship, School of Information, Renmin University of China, 2019-2022
-- Outstanding Visiting Student of University of Calgary, 2018
-- Outstanding Undergraduate Scholarship of China Scholarship Council, 2017
-- 1st Prize of Software Design Competition of Shandong Province, 2017
-- Special Prize of Bochuang Cup National College Students Embedded System Design Competition, 2017
-- Excellent Student Leader of Shandong Province, 2017
-- Shengli Scholarship of China University of Petroleum, 2017
-- Simei Star of China University of Petroleum, 2017
-- National Scholarship, Chinese Ministry of Education, 2016
 
 <span class='anchor' id='services'></span>
 
@@ -193,20 +133,12 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 
 <span class='anchor' id='others'></span>
 
-# 👩‍🏫 Teaching & Talks
-- Privacy Challenge as Models Scale: Training Efficiency and Amplified Risk, @[University of Virginia, AI ML seminar](https://uvaml.github.io/pasttalks/2024-10-30/)
-- Co-instructor @Emory University, CS573 fall 2024
-- Guest lecturer @Hokkaido University, Theory and Practice of Algorithms, 2023 Spring
-
+<!-- # 👩‍🏫 Teaching & Talks -->
 
 <!-- # 📖 Educations -->
 
 <!-- # 💼 Internships -->
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<!-- # 💬 Invited Talks -->
 
-<!-- # 💻 Experiences
-- *2019.08 - 2020.05*, [Y-Tech Lab, Kuaishou Technology](https://www.kuaishou.com/), Beijing, China.
-- *2020.05 - Now*,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Media Computing Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/media-computing-group/), Beijing, China. -->
+<!-- # 💻 Experiences -->

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruixuan Liu (刘睿瑄)"
-description              : "Postdoctoral fellow at Emory University, Computer Science Dept. Focusing on privacy-preserving machine learning."
-repository               : "Rachelxuan11/Rachelxuan11.github.io"
+title                    : "Jie Wang (王杰)"
+description              : "PhD student at Xidian University, School of Cyber Engineering. Focusing on AI for trust & Trustworthy AI."
+repository               : "Jieerbobo/Jieerbobo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruixuan Liu<br>刘睿瑄"
+  name             : "Jie Wang<br>王杰"
   avatar           : "images/avatar.png"
-  bio              : "Emory"
-  location         : "Atlanta, GA"
+  bio              :
+  location         :
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=en"
-  email            : "ruixuan.liu2@emory.edu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=QXWjw78AAAAJ&hl=en"
+  email            : "jwang1997@stu.xidian.edu.cn"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Rachelxuan11"
+  github           : "Jieerbobo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ruixuan-liu-8239531aa" # e.g., "linkedin username"
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-0823-3760" # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-6557-2582" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 

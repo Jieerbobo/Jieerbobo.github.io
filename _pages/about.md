@@ -49,21 +49,6 @@ My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create 
   <img src="https://img.shields.io/badge/citations-123-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat">
 </a> -->
 † represents co-first author, * represents corresponding author.
-See full list [here](https://scholar.google.com/citations?user=QXWjw78AAAAJ&hl=en)
-
-<!-- ## <i class="fa fa-paper-plane"></i> Conference Papers --!>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/favicon-16x16.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<!-- [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-</div>
-</div> -->
 
 <img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation]() \
 **Ruixuan Liu**, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong \

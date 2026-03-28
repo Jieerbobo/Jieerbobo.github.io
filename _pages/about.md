@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral fellow in [Assured Information Management and Sharing (AIMS)](http://www.cs.emory.edu/site/aims/people.html) at the Computer Science Department of  Emory University, supervised by [Prof. Li Xiong](http://www.cs.emory.edu/~lxiong/) since Aug. 2023. 
+<!--I am currently a postdoctoral fellow in [Assured Information Management and Sharing (AIMS)](http://www.cs.emory.edu/site/aims/people.html) at the Computer Science Department of  Emory University, supervised by [Prof. Li Xiong](http://www.cs.emory.edu/~lxiong/) since Aug. 2023. 
 Previously, I was a Ph.D. student supervised by [Prof. Hong Chen](http://info.ruc.edu.cn/Home/Faculty/Departments/ComputerScienceandTechnology/fad56fc492784d1fa87f662044649b2f.blk.htm) at the School of Information, Renmin University of China from Sep. 2018 to June, 2023.
 During my Ph.D. study, I was a research intern at Amazon AWS AI lab, hosted by Zhiqi Bu and Zha Sheng in 2023, and I was a research intern at Microsoft Research Asia, hosted by Fangzhao Wu and Xing Xie in 2021-2022.
 I received my Bachelor's degree from China University of Petroleum in June, 2018.
@@ -28,7 +28,7 @@ During my undergraduate stage, I was a visiting student in Biometric Technologie
 <!-- <span class='anchor' id='research'></span>
 
 # 🧐 Research & Collaborations -->
-My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency, and inclusiveness. I am broadly interested in **Trustworthy AI**, with specific focuses on:
+<!--My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency, and inclusiveness. I am broadly interested in **Trustworthy AI**, with specific focuses on:
 
 * **Trustworthy LLMs & Web Security:** Exploring emerging privacy risks (S&P'26, CCS'24); preventing privacy risks or unauthorized exploitation in foundation models (NDSS'26, ACL'25).
 * **Differential Privacy (Theory & Optimization):** Designing hyperparameter-free and data-augmented DP algorithms for better utility (ICLR'25, ACM MM'25).
@@ -50,7 +50,7 @@ My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create 
 </a> -->
 † represents equal contribution.
 
-<img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation]() \
+<!--<img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation]() \
 **Ruixuan Liu**, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong \
 *Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 152/950=16%)*
 
@@ -90,10 +90,10 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- Outstanding Paper, ACM MM, 2025
-- Commendable Reviewers, SIGKDD, 2025
-- Travel Award, ACM CCS Diversity, Equity, and Inclusion (DEI) Workshop, 2024
-- Outstanding Doctoral Graduate, Renmin University of China, 2023
+<!--- Outstanding Paper, ACM MM, 2025
+<!--- Commendable Reviewers, SIGKDD, 2025
+<!--- Travel Award, ACM CCS Diversity, Equity, and Inclusion (DEI) Workshop, 2024
+<!--- Outstanding Doctoral Graduate, Renmin University of China, 2023
 
 <span class='anchor' id='services'></span>
 

@@ -12,7 +12,7 @@ repository               : "Jieerbobo/Jieerbobo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  G-2JP4E0YYYP # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jie Wang<br>王杰"
-  avatar           : "images/avatar.png"
+  avatar           : # "images/avatar.png"
   bio              :
   location         :
   employer         :

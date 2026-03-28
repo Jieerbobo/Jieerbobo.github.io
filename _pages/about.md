@@ -42,13 +42,13 @@ My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications (<a href='[https://scholar.google.com/citations?user=QXWjw78AAAAJ](https://scholar.google.com/citations?user=QXWjw78AAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+# 📝 Publications (<a href="https://scholar.google.com/citations?user=QXWjw78AAAAJ"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DQXWjw78AAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> </a>)
 <!-- (*: Mentored student; †: Equal contribution.) -->
 <!-- See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ) -->
 <!-- <a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'>
   <img src="https://img.shields.io/badge/citations-123-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat">
 </a> -->
-† represents co-first author, * represents corresponding author.
+† represents equal contribution.
 
 <img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation]() \
 **Ruixuan Liu**, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong \

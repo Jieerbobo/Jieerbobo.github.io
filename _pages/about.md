@@ -16,27 +16,22 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
+I am a final-year PhD student at Xidian University, supervised by [Prof. Zheng Yan](https://scholar.google.com/citations?user=UCkDpU8AAAAJ&hl=en). From June 2022 to May 2024, I was a visiting PhD student at the Department of Information and Communications Engineering, Aalto University, where I was supervised by [Prof. Raimo Kantola](https://scholar.google.com/citations?user=Ajv7_yUAAAAJ&hl=en&oi=ao) and [Prof. Riku Jantti](https://scholar.google.com/citations?user=d-Zq1l0AAAAJ&hl=en&oi=ao). I received my bachelor’s degree from Xidian University in June 2020. During my undergraduate studies, I was also a visiting student at Nanyang Technological University, supervised by [Prof. Kwok-Yan Lam](https://scholar.google.com/citations?user=NDMIYKsAAAAJ&hl=en&oi=ao).
 
-<!--I am currently a postdoctoral fellow in [Assured Information Management and Sharing (AIMS)](http://www.cs.emory.edu/site/aims/people.html) at the Computer Science Department of  Emory University, supervised by [Prof. Li Xiong](http://www.cs.emory.edu/~lxiong/) since Aug. 2023. 
-Previously, I was a Ph.D. student supervised by [Prof. Hong Chen](http://info.ruc.edu.cn/Home/Faculty/Departments/ComputerScienceandTechnology/fad56fc492784d1fa87f662044649b2f.blk.htm) at the School of Information, Renmin University of China from Sep. 2018 to June, 2023.
-During my Ph.D. study, I was a research intern at Amazon AWS AI lab, hosted by Zhiqi Bu and Zha Sheng in 2023, and I was a research intern at Microsoft Research Asia, hosted by Fangzhao Wu and Xing Xie in 2021-2022.
-I received my Bachelor's degree from China University of Petroleum in June, 2018.
-During my undergraduate stage, I was a visiting student in Biometric Technologies Laboratory (BTLAB) at University of Calgary, supervised by Prof. Marina L. Gavrilova.
+I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a particular focus on the following areas:
+
+* **Graph Neural Networks for Trust Evaluation:** Developing intelligent, accurate, robust, and practical trust evaluation models (NDSS'26, TDSC'24).
+* **Robustness of AI Models:** Investigating the robustness of LLM-enhanced GNNs against data poisoning attacks (S&P'26); Designing backdoor attacks against DNN-based speech recognition systems (S&P'24).
 
 <!-- <span class='anchor' id='news'></span> -->
 
 <!-- <span class='anchor' id='research'></span>
 
-# 🧐 Research & Collaborations -->
-<!--My works focus on advancing **Privacy Enhancement Techniques (PETs)** to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency, and inclusiveness. I am broadly interested in **Trustworthy AI**, with specific focuses on:
-
-* **Trustworthy LLMs & Web Security:** Exploring emerging privacy risks (S&P'26, CCS'24); preventing privacy risks or unauthorized exploitation in foundation models (NDSS'26, ACL'25).
-* **Differential Privacy (Theory & Optimization):** Designing hyperparameter-free and data-augmented DP algorithms for better utility (ICLR'25, ACM MM'25).
-* **Privacy-Preserving Federated Learning:** Building private, efficient and inclusive FL systems across devices (SIGKDD '23, SIGKDD '22, AAAI '21).
+<!--# 🧐 Research & Collaborations -->
 
 # 🔥 News
-- *2026.3*: One paper accepted to S&P '26! See you in San Francisco!
-- *2024.8*: Personal website online!
+- *2026.3*: One paper accepted to S&P'26!
+- *2026.3*: Personal website online!
 
 <span class='anchor' id='publications'></span>
 

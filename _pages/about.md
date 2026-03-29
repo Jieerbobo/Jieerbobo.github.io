@@ -54,7 +54,7 @@ Yuhang Ma†, **Jie Wang†**, Zheng Yan \
 Jiahe Lan, **Jie Wang**, Baochen Yan, Zheng Yan, Elisa Bertino \
 *Proceedings of the 45th IEEE Symposium on Security and Privacy (S&P, Cycle 2: 83/558=14.9%)*
 
-<img src="https://img.shields.io/badge/IEEE Network-2022-blue"> [Graph Neural Networks for Trust Evaluation: Criteria, State-of-the-Art, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10925363) \
+<img src="https://img.shields.io/badge/IEEE Network-2025-blue"> [Graph Neural Networks for Trust Evaluation: Criteria, State-of-the-Art, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10925363) \
 Tingxi Luo†, **Jie Wang†**, Zheng Yan, Erol Gelenbe \
 *IEEE Network*
 

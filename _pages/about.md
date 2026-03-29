@@ -72,6 +72,12 @@ Tingxi Luo†, **Jie Wang†**, Zheng Yan, Erol Gelenbe \
 # 💻 Services
 - Journal & Conference Reviewer: IEEE TDSC, IEEE TIFS, CSUR, INFOCOM, AAAI
 
+<span class='anchor' id='countries'></span>
+
+# 🌍 Visited Countries
+
+![Visited countries map](/images/visited-countries.png)
+
 <!-- <span class='anchor' id='others'></span> -->
 
 <!-- # 👩‍🏫 Teaching & Talks -->

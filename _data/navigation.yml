@@ -24,6 +24,9 @@ main:
   - title: "Services"
     url: "#services"
 
+  - title: "Visited Countries"
+    url: "#countries"
+
   # - title: "Other Activities"
   #   url: "#others"
 

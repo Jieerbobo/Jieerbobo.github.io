@@ -22,10 +22,10 @@ main:
   #   url: "/#internship"
 
   - title: "Services"
-    url: "#services"
+    url: "/#services"
 
   - title: "Visited Countries"
-    url: "#countries"
+    url: "/#countries"
 
   # - title: "Other Activities"
   #   url: "#others"

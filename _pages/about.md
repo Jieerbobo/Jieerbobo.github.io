@@ -50,7 +50,7 @@ Yuhang Ma†, **Jie Wang†**, Zheng Yan \
 **Jie Wang**, Zheng Yan, Haiguang Wang, Tieyan Li, Witold Pedrycz \
 *IEEE Communications Surveys & Tutorials (COMST)*
 
-<img src="https://img.shields.io/badge/SP-2024-blue"> [FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10646645) \
+<img src="https://img.shields.io/badge/S&P-2024-blue"> [FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10646645) \
 Jiahe Lan, **Jie Wang**, Baochen Yan, Zheng Yan, Elisa Bertino \
 *Proceedings of the 45th IEEE Symposium on Security and Privacy (S&P, Cycle 2: 83/558=14.9%)*
 

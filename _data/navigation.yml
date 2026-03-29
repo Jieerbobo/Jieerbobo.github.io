@@ -24,8 +24,8 @@ main:
   - title: "Services"
     url: "#services"
 
-  - title: "Other Activities"
-    url: "#others"
+  # - title: "Other Activities"
+  #   url: "#others"
 
   # - title: "Teaching"
   #   url: "/#teaching"

@@ -23,7 +23,7 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 * **Graph Neural Networks for Trust Evaluation:** Developing intelligent, accurate, robust, and practical trust evaluation models (NDSS'26, TDSC'24).
 * **Robustness of AI Models:** Investigating the robustness of LLM-enhanced GNNs against data poisoning attacks (S&P'26); Designing backdoor attacks against DNN-based speech recognition systems (S&P'24).
 
-<!-- <span class='anchor' id='news'></span> -->
+<span class='anchor' id='news'></span> -->
 
 # 🔥 News
 - *2026.3*: One paper accepted to S&P'26!

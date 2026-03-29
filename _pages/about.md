@@ -25,91 +25,53 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 
 <!-- <span class='anchor' id='news'></span> -->
 
-<!-- <span class='anchor' id='research'></span>
-
-<!--# 🧐 Research & Collaborations -->
-
 # 🔥 News
 - *2026.3*: One paper accepted to S&P'26!
 - *2026.3*: Personal website online!
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications <a href="https://scholar.google.com/citations?user=QXWjw78AAAAJ"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DQXWjw78AAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> </a>
-<!-- (*: Mentored student; †: Equal contribution.) -->
-<!-- See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ) -->
-<!-- <a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'>
-  <img src="https://img.shields.io/badge/citations-123-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat">
-</a> -->
+# 📝 Selected Publications <a href="https://scholar.google.com/citations?user=QXWjw78AAAAJ"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DQXWjw78AAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> </a>
 † represents equal contribution.
 
-<!--<img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation]() \
-**Ruixuan Liu**, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong \
-*Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 152/950=16%)*
+<img src="https://img.shields.io/badge/NDSS-2026-blue"> [CAT: Can Trust be Predicted with Context-Awareness in Dynamic Heterogeneous Networks?](https://www.ndss-symposium.org/wp-content/uploads/2026-f2171-paper.pdf) \
+**Jie Wang**, Zheng Yan, Jiahe Lan, Xuyan Li, Elisa Bertino \
+*Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 17.89%)*
 
-<img src="https://img.shields.io/badge/MM-2025-blue"> [Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data](https://dl.acm.org/doi/pdf/10.1145/3746027.3755037) \
-Haichao Sha, Yuncheng Wu, **Ruixuan Liu**, Yang Cao, Hong Chen \
-*Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM, **Outstanding Paper Award**)*
+<img src="https://img.shields.io/badge/SP-2026-blue"> [Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?]() \
+Yuhang Ma†, **Jie Wang†**, Zheng Yan \
+*To Appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P, Cycle 2: 135/1070=12.6%)*
 
-<img src="https://img.shields.io/badge/ACL-2025-blue"> [Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](https://aclanthology.org/2025.findings-acl.1174/) \
-Toan Tran, **Ruixuan Li**\*, Li Xiong \
-*Proceedings of the Findings of the 63rd Association for Computational Linguistics (ACL Findings)*
+<img src="https://img.shields.io/badge/TDSC-2024-blue"> [TrustGuard: GNN-Based Robust and Explainable Trust Evaluation with Dynamicity Support](https://arxiv.org/pdf/2306.13339) \
+**Jie Wang**, Zheng Yan, Jiahe Lan, Elisa Bertino, Witold Pedrycz \
+*IEEE Transactions on Dependable and Secure Computing (TDSC)*
 
-<img src="https://img.shields.io/badge/ICLR-2025-blue"> [Towards hyperparameter-free optimization with differential privacy](https://openreview.net/forum?id=2kGKsyhtvh) \
-**Ruixuan Liu†**, Zhiqi Bu† \
-*Proceedings of the 13th International Conference on Learning Representations (ICLR **Spotlight**, Top 5.2%)*
+<img src="https://img.shields.io/badge/COMST-2022-blue"> [A Survey on Trust Models in Heterogeneous Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9834331) \
+**Jie Wang**, Zheng Yan, Haiguang Wang, Tieyan Li, Witold Pedrycz \
+*IEEE Communications Surveys & Tutorials (COMST)*
 
-<img src="https://img.shields.io/badge/CCS-2024-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://dl.acm.org/doi/10.1145/3658644.3690279) \
-**Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong \
-*Proceedings of the 31th ACM Conference on Computer and Communications Security (CCS)*
+<img src="https://img.shields.io/badge/SP-2024-blue"> [FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10646645) \
+Jiahe Lan, **Jie Wang**, Baochen Yan, Zheng Yan, Elisa Bertino \
+*Proceedings of the 45th IEEE Symposium on Security and Privacy (S&P, Cycle 2: 83/558=14.9%)*
 
-<img src="https://img.shields.io/badge/TKDE-2021-blue"> [LuxGeo: Efficient and Security-Enhanced Geometric Range Queries](https://ieeexplore.ieee.org/abstract/document/9477110) \
-Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
-*IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+<img src="https://img.shields.io/badge/IEEE Network-2022-blue"> [Graph Neural Networks for Trust Evaluation: Criteria, State-of-the-Art, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10925363) \
+Tingxi Luo†, **Jie Wang†**, Zheng Yan, Erol Gelenbe \
+*IEEE Network*
 
-<img src="https://img.shields.io/badge/JoS-2020-blue"> [Survey on Privacy Attacks and Defenses in Machine Learning](https://www.jos.org.cn/jos/article/abstract/5904) \
-**Ruixuan Liu**, Hong Chen, Ruoyang Guo, Dan Zhao, Wenjuan Liang, Cuiping Li \
-*Journal of Software (Chinese)*
-
-<img src="https://img.shields.io/badge/C&S-2020-blue"> [A pufferfish privacy mechanism for monitoring web browsing behavior under temporal correlations](https://www.sciencedirect.com/science/article/abs/pii/S0167404820300389) \
-Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
-*Computers & Security*
-
-<!-- ## <i class="fa fa-paper-plane"></i> Preprints -->
-<!-- <img src="https://img.shields.io/badge/arXiv-blue"> [Zero redundancy distributed learning with differential privacy](https://arxiv.org/pdf/2311.11822), Zhiqi Bu, **Ruixuan Liu**, Justin Chiu, Sheng Zha, George Karypis
-
-<img src="https://img.shields.io/badge/arXiv-blue"> [On the accuracy and efficiency of group-wise clipping in differentially private optimization](https://arxiv.org/pdf/2310.19215), Zhiqi Bu, **Ruixuan Liu**, Yu-Xiang Wang, Sheng Zha, George Karypis -->
 
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-<!--- Outstanding Paper, ACM MM, 2025
-<!--- Commendable Reviewers, SIGKDD, 2025
-<!--- Travel Award, ACM CCS Diversity, Equity, and Inclusion (DEI) Workshop, 2024
-<!--- Outstanding Doctoral Graduate, Renmin University of China, 2023
+- "Qi An Xin" Scholarship, Qi An Xin Technology Group Inc., 2025
+- Outstanding Leadership Award, IEEE International Conference on Blockchain, 2024
+- Outstanding Service Award, BlockchainEvo, 2022
 
 <span class='anchor' id='services'></span>
 
 # 💻 Services
-- Journal Reviewer
-  - IEEE Transactions on Mobile Computing (TMC) 2024
-  - IEEE Transactions on Information Forensics & Security (TIFS) 2024
-  - IEEE Transactions on Dependable and Secure Computing (TDSC) 2023-2025
-- Conference Program Committee Member
-  - ACM Conference on Computer and Communications Security (CCS) 2026
-  - IEEE Conference on Secure and Trustworthy Machine Learning (SatML) 2025-2026
-  - AAAI Conference on Artificial Intelligence (AAAI) 2023-2026
-  - ACM International Conference on Information and Knowledge Management (CIKM) 2024
-- Conference Reviewer
-  - ACM Knowledge Discovery and Data Mining (SIGKDD) 2024-2026
-  - KDD-Workshop on FedKDD 2024
-  - ICML-Workshop on FM-Wild 2024
-  - SIGKDD-Workshop on Federated Learning for Distributed Data Mining [(FL4Data)](https://fl4data-mining.github.io/) 2023
-- External Reviewer
-  - IEEE International Conference on Data Engineering (ICDE) 2020-2021
-  - Network and Distributed System Security Symposium (NDSS) 2025
+- Journal & Conference Reviewer: IEEE TDSC, IEEE TIFS, CSUR, INFOCOM, AAAI
 
-<span class='anchor' id='others'></span>
+<!-- <span class='anchor' id='others'></span> -->
 
 <!-- # 👩‍🏫 Teaching & Talks -->
 

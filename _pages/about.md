@@ -22,6 +22,7 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 
 * **Graph Neural Networks for Trust Evaluation:** Developing intelligent, accurate, robust, and practical trust evaluation models (NDSS'26, TDSC'24).
 * **Robustness of AI Models:** Investigating the robustness of LLM-enhanced GNNs against data poisoning attacks (S&P'26); Designing backdoor attacks against DNN-based speech recognition systems (S&P'24).
+* **Trustworthy AI Agents:** Building trustworthy multi-agent systems and identifying trust-related issues in AI agents (open to collaborations😀).
 
 <span class='anchor' id='news'></span>
 
@@ -64,7 +65,7 @@ Tingxi Luo†, **Jie Wang†**, Zheng Yan, Erol Gelenbe \
 # 🎖 Honors and Awards
 - "Qi An Xin" Scholarship, Qi An Xin Technology Group Inc., 2025
 - Outstanding Leadership Award, IEEE International Conference on Blockchain, 2024
-- Outstanding Service Award, BlockchainEvo, 2022
+- Outstanding Service Award, The First International Symposium on Recent Advances of Blockchain Evolution: Architecture, Intelligence, Incentive, and Applications, 2022
 
 <span class='anchor' id='services'></span>
 

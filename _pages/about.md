@@ -40,7 +40,7 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 *Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 17.89%)*
 
 <img src="https://img.shields.io/badge/S&P-2026-blue"> [Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?](https://arxiv.org/pdf/2603.26105) \
-Yuhang Ma†, **Jie Wang†**, Zheng Yan \
+**Jie Wang†**, Yuhang Ma†, Zheng Yan \
 *To Appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P, Cycle 2: 135/1070=12.6%)*
 
 <img src="https://img.shields.io/badge/TDSC-2024-blue"> [TrustGuard: GNN-Based Robust and Explainable Trust Evaluation with Dynamicity Support](https://arxiv.org/pdf/2306.13339) \

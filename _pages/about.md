@@ -20,14 +20,14 @@ I am currently a postdoctoral fellow at the Hangzhou Institute of Technology, Xi
 
 I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a particular focus on the following areas:
 
-* **Graph Neural Networks for Trust Evaluation:** Developing intelligent, accurate, robust, and practical trust evaluation models (NDSS'26, NDSS'27, TDSC'24).
+* **Intelligent Trust Evaluation:** Developing intelligent, accurate, robust, and practical trust evaluation models, including GNN-empowered (NDSS'26, TDSC'24) and LLM-empowered models (NDSS'27).
 * **Robustness of AI Models:** Investigating the robustness of LLM-enhanced GNNs against data poisoning attacks (S&P'26); Designing backdoor attacks against DNN-based speech recognition systems (S&P'24).
 * **Trustworthy AI Agents:** Building trustworthy multi-agent systems and identifying trust-related issues in AI agents (open to collaborations😀).
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.9*: Our paper on intelligent trust evaluation has been accepted to NDSS 2027!
+- *2026.9*: Our paper on LLM-based trust evaluation has been accepted to NDSS 2027!
 - *2026.3*: Our paper on the robustness of LLM-enhanced GNNs has been accepted to S&P 2026!
 - *2026.3*: Personal website online!
 

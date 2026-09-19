@@ -40,7 +40,7 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 **Jie Wang**, Zheng Yan, Jiahe Lan, Xuyan Li, Elisa Bertino \
 *Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 17.89%)*
 
-<img src="https://img.shields.io/badge/NDSS-2026-blue"> [LLM4Trust: Exploring the Capabilities of Large Language Models for Trust Evaluation]() \
+<img src="https://img.shields.io/badge/NDSS-2027-blue"> [LLM4Trust: Exploring the Capabilities of Large Language Models for Trust Evaluation]() \
 **Jie Wang**, Yanbo Sun, Zheng Yan, Jiahe Lan, Elisa Bertino \
 *To Appear in Proceedings of the 34th Network and Distributed System Security Symposium (NDSS)*
 

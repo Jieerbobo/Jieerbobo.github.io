@@ -20,13 +20,14 @@ I am currently a postdoctoral fellow at the Hangzhou Institute of Technology, Xi
 
 I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a particular focus on the following areas:
 
-* **Graph Neural Networks for Trust Evaluation:** Developing intelligent, accurate, robust, and practical trust evaluation models (NDSS'26, TDSC'24).
+* **Graph Neural Networks for Trust Evaluation:** Developing intelligent, accurate, robust, and practical trust evaluation models (NDSS'26, NDSS'27, TDSC'24).
 * **Robustness of AI Models:** Investigating the robustness of LLM-enhanced GNNs against data poisoning attacks (S&P'26); Designing backdoor attacks against DNN-based speech recognition systems (S&P'24).
 * **Trustworthy AI Agents:** Building trustworthy multi-agent systems and identifying trust-related issues in AI agents (open to collaborations😀).
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.9*: Our paper on intelligent trust evaluation has been accepted to NDSS 2027!
 - *2026.3*: Our paper on the robustness of LLM-enhanced GNNs has been accepted to S&P 2026!
 - *2026.3*: Personal website online!
 
@@ -38,6 +39,10 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 <img src="https://img.shields.io/badge/NDSS-2026-blue"> [CAT: Can Trust be Predicted with Context-Awareness in Dynamic Heterogeneous Networks?](https://www.ndss-symposium.org/wp-content/uploads/2026-f2171-paper.pdf) \
 **Jie Wang**, Zheng Yan, Jiahe Lan, Xuyan Li, Elisa Bertino \
 *Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 17.89%)*
+
+<img src="https://img.shields.io/badge/NDSS-2026-blue"> [LLM4Trust: Exploring the Capabilities of Large Language Models for Trust Evaluation]() \
+**Jie Wang**, Yanbo Sun, Zheng Yan, Jiahe Lan, Elisa Bertino \
+*To Appear in Proceedings of the 34th Network and Distributed System Security Symposium (NDSS)*
 
 <img src="https://img.shields.io/badge/S&P-2026-blue"> [Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?](https://arxiv.org/pdf/2603.26105) \
 **Jie Wang†**, Yuhang Ma†, Zheng Yan \
@@ -54,10 +59,6 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 <img src="https://img.shields.io/badge/S&P-2024-blue"> [FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10646645) \
 Jiahe Lan, **Jie Wang**, Baochen Yan, Zheng Yan, Elisa Bertino \
 *Proceedings of the 45th IEEE Symposium on Security and Privacy (S&P, Cycle 2: 83/558=14.9%)*
-
-<img src="https://img.shields.io/badge/IEEE Network-2025-blue"> [Graph Neural Networks for Trust Evaluation: Criteria, State-of-the-Art, and Future Directions](https://ieeexplore.ieee.org/abstract/document/10925363) \
-**Jie Wang†**, Tingxi Luo†, Zheng Yan, Erol Gelenbe \
-*IEEE Network*
 
 
 <span class='anchor' id='honors-and-awards'></span>

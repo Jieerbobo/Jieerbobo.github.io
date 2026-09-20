@@ -36,13 +36,13 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 # 📝 Selected Publications <a href="https://scholar.google.com/citations?user=QXWjw78AAAAJ"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DQXWjw78AAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> </a>
 † represents equal contribution.
 
-<img src="https://img.shields.io/badge/NDSS-2026-blue"> [CAT: Can Trust be Predicted with Context-Awareness in Dynamic Heterogeneous Networks?](https://www.ndss-symposium.org/wp-content/uploads/2026-f2171-paper.pdf) \
-**Jie Wang**, Zheng Yan, Jiahe Lan, Xuyan Li, Elisa Bertino \
-*Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 17.89%)*
-
 <img src="https://img.shields.io/badge/NDSS-2027-blue"> [LLM4Trust: Exploring the Capabilities of Large Language Models for Trust Evaluation]() \
 **Jie Wang**, Yanbo Sun, Zheng Yan, Jiahe Lan, Elisa Bertino \
 *To Appear in Proceedings of the 34th Network and Distributed System Security Symposium (NDSS)*
+
+<img src="https://img.shields.io/badge/NDSS-2026-blue"> [CAT: Can Trust be Predicted with Context-Awareness in Dynamic Heterogeneous Networks?](https://www.ndss-symposium.org/wp-content/uploads/2026-f2171-paper.pdf) \
+**Jie Wang**, Zheng Yan, Jiahe Lan, Xuyan Li, Elisa Bertino \
+*Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 17.89%)*
 
 <img src="https://img.shields.io/badge/S&P-2026-blue"> [Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?](https://arxiv.org/pdf/2603.26105) \
 **Jie Wang†**, Yuhang Ma†, Zheng Yan \

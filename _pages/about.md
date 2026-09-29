@@ -36,7 +36,7 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 # 📝 Selected Publications <a href="https://scholar.google.com/citations?user=QXWjw78AAAAJ"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DQXWjw78AAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> </a>
 † represents equal contribution.
 
-<img src="https://img.shields.io/badge/NDSS-2027-blue"> [LLM4Trust: Exploring the Capabilities of Large Language Models for Trust Evaluation]() \
+<img src="https://img.shields.io/badge/NDSS-2027-blue"> [LLM4Trust: Exploring the Capabilities of Large Language Models for Trust Evaluation](https://arxiv.org/pdf/2609.33521) \
 **Jie Wang**, Yanbo Sun, Zheng Yan, Jiahe Lan, Elisa Bertino \
 *To Appear in Proceedings of the 34th Network and Distributed System Security Symposium (NDSS)*
 

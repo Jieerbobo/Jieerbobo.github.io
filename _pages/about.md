@@ -38,7 +38,7 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 
 <img src="https://img.shields.io/badge/NDSS-2027-blue"> [LLM4Trust: Exploring the Capabilities of Large Language Models for Trust Evaluation](https://arxiv.org/pdf/2609.33521) \
 **Jie Wang**, Yanbo Sun, Zheng Yan, Jiahe Lan, Elisa Bertino \
-*To Appear in Proceedings of the 34th Network and Distributed System Security Symposium (NDSS)*
+*To Appear in Proceedings of the 34th Network and Distributed System Security Symposium (NDSS, Cycle 1: 162/1153=14.05%)*
 
 <img src="https://img.shields.io/badge/NDSS-2026-blue"> [CAT: Can Trust be Predicted with Context-Awareness in Dynamic Heterogeneous Networks?](https://www.ndss-symposium.org/wp-content/uploads/2026-f2171-paper.pdf) \
 **Jie Wang**, Zheng Yan, Jiahe Lan, Xuyan Li, Elisa Bertino \
@@ -46,7 +46,7 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 
 <img src="https://img.shields.io/badge/S&P-2026-blue"> [Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?](https://arxiv.org/pdf/2603.26105) \
 **Jie Wang†**, Yuhang Ma†, Zheng Yan \
-*To Appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P, Cycle 2: 135/1070=12.6%)*
+*Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P, Cycle 2: 135/1070=12.6%)*
 
 <img src="https://img.shields.io/badge/TDSC-2024-blue"> [TrustGuard: GNN-Based Robust and Explainable Trust Evaluation with Dynamicity Support](https://arxiv.org/pdf/2306.13339) \
 **Jie Wang**, Zheng Yan, Jiahe Lan, Elisa Bertino, Witold Pedrycz \
@@ -67,6 +67,7 @@ Jiahe Lan, **Jie Wang**, Baochen Yan, Zheng Yan, Elisa Bertino \
 - "Qi An Xin" Scholarship, Qi An Xin Technology Group Inc., 2025
 - Outstanding Leadership Award, IEEE International Conference on Blockchain, 2024
 - Outstanding Service Award, The First International Symposium on Recent Advances of Blockchain Evolution: Architecture, Intelligence, Incentive, and Applications, 2022
+- China Scholarship Council (CSC) Scholarship, 2022
 
 <span class='anchor' id='services'></span>
 
@@ -76,9 +77,9 @@ Jiahe Lan, **Jie Wang**, Baochen Yan, Zheng Yan, Elisa Bertino \
 
 <span class='anchor' id='countries'></span>
 
-# 🌍 Visited Countries
+<!-- # 🌍 Visited Countries -->
 
-![Visited countries map](/images/visited-countries.png)
+<!-- ![Visited countries map](/images/visited-countries.png) -->
 
 <!-- <span class='anchor' id='others'></span> -->
 

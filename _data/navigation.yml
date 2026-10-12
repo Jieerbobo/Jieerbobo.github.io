@@ -21,11 +21,14 @@ main:
   # - title: "Internships"
   #   url: "/#internship"
 
+  - title: "Projects"
+    url: "/#projects"
+
   - title: "Services"
     url: "/#services"
 
-  - title: "Visited Countries"
-    url: "/#countries"
+  # - title: "Visited Countries"
+  #   url: "/#countries"
 
   # - title: "Other Activities"
   #   url: "#others"

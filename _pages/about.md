@@ -69,6 +69,14 @@ Jiahe Lan, **Jie Wang**, Baochen Yan, Zheng Yan, Elisa Bertino \
 - Outstanding Service Award, The First International Symposium on Recent Advances of Blockchain Evolution: Architecture, Intelligence, Incentive, and Applications, 2022
 - China Scholarship Council (CSC) Scholarship, 2022
 
+<span class='anchor' id='projects'></span>
+
+# 💼 Projects
+- **APT Attack Detection Based on Provenance Graphs**  
+Student Innovation Program, School of Cyber Engineering · **Project Leader** · RMB 60,000 · Aug 2025 – Jul 2026
+- **Trustworthy Trust Evaluation Based on Graph Neural Networks**  
+Graduate Innovation Fund, Xidian University · **Project Leader** · RMB 10,000 · Jan 2025 – Dec 2025
+
 <span class='anchor' id='services'></span>
 
 # 💻 Services

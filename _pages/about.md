@@ -38,7 +38,7 @@ I am broadly interested in **AI for Trust** and **Trustworthy AI**, with a parti
 
 <img src="https://img.shields.io/badge/NDSS-2027-blue"> [LLM4Trust: Exploring the Capabilities of Large Language Models for Trust Evaluation](https://arxiv.org/pdf/2609.33521) \
 **Jie Wang**, Yanbo Sun, Zheng Yan, Jiahe Lan, Elisa Bertino \
-*To Appear in Proceedings of the 34th Network and Distributed System Security Symposium (NDSS, Cycle 1: 162/1153=14.05%)*
+*To Appear in Proceedings of the 34th Network and Distributed System Security Symposium (NDSS, Cycle 1: 163/1153=14.14%)*
 
 <img src="https://img.shields.io/badge/NDSS-2026-blue"> [CAT: Can Trust be Predicted with Context-Awareness in Dynamic Heterogeneous Networks?](https://www.ndss-symposium.org/wp-content/uploads/2026-f2171-paper.pdf) \
 **Jie Wang**, Zheng Yan, Jiahe Lan, Xuyan Li, Elisa Bertino \
